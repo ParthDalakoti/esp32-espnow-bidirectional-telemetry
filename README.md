@@ -1,5 +1,8 @@
 # Low-Latency ESP-NOW Wireless Telemetry: Connectionless Peer-to-Peer Protocol with Dynamic Joystick Calibration
 
+
+[![Firmware CI](https://github.com/ParthDalakoti/esp32-espnow-bidirectional-telemetry/actions/workflows/firmware-ci.yml/badge.svg)](https://github.com/ParthDalakoti/esp32-espnow-bidirectional-telemetry/actions) [![Wokwi Simulation](https://img.shields.io/badge/Simulation-Wokwi_Virtual_Lab-00B4D8.svg?style=for-the-badge&logo=espressif)](https://wokwi.com)
+
 [![Microcontroller](https://img.shields.io/badge/MCU-Dual_ESP32-E7352C.svg?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![Protocol](https://img.shields.io/badge/Protocol-ESP--NOW_(2.4GHz_MAC)-000000.svg?style=for-the-badge)](https://www.espressif.com/)
 [![Latency](https://img.shields.io/badge/Latency-<5ms_Direct_MAC-success.svg?style=for-the-badge)]()
@@ -86,3 +89,12 @@ graph LR
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *President, Robotics & Automation Club, GEHU*
+
+---
+
+## 📸 Hardware Bench Test Photos
+
+![Hardware Prototype Setup](media/hardware_demo_1.jpg)
+
+![Hardware Prototype Setup](media/hardware_demo_2.jpg)
+
